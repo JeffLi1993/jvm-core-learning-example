@@ -24,14 +24,16 @@ Java虚拟机核心知识点学习代码兼测试案例<br>
 详细目录：
 
 	├── README.md						// 项目唯一详细文档
-	├── org.jvmcore.classloader		// 类加载器
+	├── org.jvmcore.classloader	// 类加载器
 	├── 	ClassLoaderInfoT.java		// 打印类加载器信息
+	├── 	InitMain.java				// 子类的初始化过程和主动引用
+	├── 	UseFinalField.java			// Final字段不会被引起初始化
 	├── org.javacore.heap			// 堆
 	├── 	JvmXmxArgs.java				// 打印堆内存
-	├── org.javacore.memory			// 内存
+	├── org.javacore.memory		// 内存
 	├── 	FloatInJvm.java				// 输出浮点数在虚拟机的实际表示
 	├── 	IntegerInJvm.java			// 负整形数在Jvm中的表示
-	├── org.javacore.stack			// 栈
+	├── org.javacore.stack		// 栈
 	├── 	LocalVarGC.java				// 打印GC信息
 	├── 	StackDeep.java				// 堆溢出的理解
 	拼命更新！顶！d=====(￣▽￣*)b
