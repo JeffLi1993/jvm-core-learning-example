@@ -19,7 +19,7 @@ package org.jvmcore.memory;
 /**
  * @author Jeff Lee
  * @since 2015-12-1 19:11:36
- * ?????Jvm????
+ * 负整形数在Jvm中的表示
  */
 public class IntegerInJvm {
     public static void main(String[] args) {
