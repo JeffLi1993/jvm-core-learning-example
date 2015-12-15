@@ -27,6 +27,7 @@ Java虚拟机核心知识点学习代码兼测试案例<br>
 	├── org.jvmcore.classloader	// 类加载器
 	├── 	ClassLoaderInfoT.java		// 打印类加载器信息
 	├── 	InitMain.java				// 子类的初始化过程和主动引用
+	├── 	StringCL.java				// 类加载 - Class.forName
 	├── 	UseFinalField.java			// Final字段不会被引起初始化
 	├── org.javacore.heap			// 堆
 	├── 	JvmXmxArgs.java				// 打印堆内存
