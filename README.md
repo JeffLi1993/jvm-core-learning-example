@@ -1,10 +1,15 @@
+推荐工具：
+
+[微信公众号 Markdown 编辑器 - OpenWrite](https://md.openwrite.cn/)：Markdown 微信编辑器是一款专业强大的微信公众平台在线编辑排版工具，提供手机预览功能，让用户在微信图文 、文章、内容排版、文本编辑、素材编辑上更加方便。 - [更多介绍](https://openwrite.cn/product-markdown)
+
+[博客群发平台](https://openwrite.cn)
+
 # jvm-core-learning-example
 关于Java虚拟机核心知识点学习积累的例子，是初学者及虚拟机核心知识巩固的最佳实践。
 
 ## 作者与学习乐园
 源码地址:我的[GitHub地址](https://github.com/JeffLi1993 "GitHub")<br>
 作者： [李强强](http://www.bysocket.com/ "李强强")<br>
-QQ群：编程之美 365234583 [立即加入](http://jq.qq.com/?_wv=1027&k=Sx4s4U "编程之美")
 
 ## 项目结构
 - src 目录<br>
